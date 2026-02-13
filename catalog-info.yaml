@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: nps-popbo-external-api
-  title: NPS POPBO External API Service
+  title: NPS POPBO External API Services
   description: External API service for NPS POPBO integration with third-party services including Signzy, Protean, PRAN, PAN validation, and CKYC services.
   tags:
     - finance
