@@ -10,8 +10,8 @@ metadata:
     - pension
     - external-integration
   links:
-    - url: https://uat-pop2.proteanx.io/api-gateway/externalapi
-      title: UAT Environment
+    - url: https://www.qa-mynps.nps-proteantech.in//api-gateway/externalapi
+      title: QA Environment
       icon: dashboard
 spec:
   type: openapi
@@ -33,8 +33,8 @@ metadata:
     - backend
     - nps
   links:
-    - url: https://dev-pop2.proteanx.io/api-gateway/externalapi
-      title: Dev Environment
+    - url: https://www.pilot-mynps.nps-proteantech.in/api-gateway/externalapi
+      title: Pilot Environment
 spec:
   type: service
   lifecycle: production
